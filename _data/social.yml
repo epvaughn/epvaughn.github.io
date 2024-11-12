@@ -1,6 +1,6 @@
 - name: linkedin
   url: https://www.linkedin.com/epvaughn
-  icon: ri:facebook-fill
+  icon: ri:linkedin-fill
   color: '#1877F2'
 
 - name: instagram
