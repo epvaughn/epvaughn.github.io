@@ -8,9 +8,9 @@
   icon: ri:github-fill
   color: '#E4405F'
 
-- name: x
+- name: tryhackme
   url: https://x.com/example
-  icon: ri:twitter-x-fill
+  icon: simple-icons:tryhackme
   color: '#1D9BF0'
 
 - name: mastodon
