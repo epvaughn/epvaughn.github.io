@@ -6,17 +6,17 @@
 - name: github
   url: https://github.com/epvaughn
   icon: ri:github-fill
-  color: '#E4405F'
+  color: '#800080'
 
 - name: tryhackme
-  url: https://x.com/example
+  url: https://tryhackme.com/r/p/PalePerry
   icon: simple-icons:tryhackme
-  color: '#1D9BF0'
+  color: '#E50000'
 
-- name: mastodon
-  url: https://mastodon.social/@example
-  icon: ri:mastodon-fill
-  color: '#6364FF'
+- name: hackthebox
+  url: https://app.hackthebox.com/profile/2131810
+  icon: simple-icons:hackthebox
+  color: '#25D366'
 
 - name: whatsapp
   url: https://wa.me/1XXXXXXXXXX
